@@ -5,9 +5,8 @@ module.exports = {
     './pages/**/*.{js,jsx}',
     './components/**/*.{js,jsx}',
     './app/**/*.{js,jsx}',
-    './app/**/*.{html,js,jsx}',
+    './src/**/*.{js,jsx}',
   ],
-  prefix: "",
   theme: {
     container: {
       center: true,
